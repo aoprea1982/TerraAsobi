@@ -1,5 +1,0 @@
-resource "aws_s3_bucket" "ForLog" {
-  count  = "${var.NbrBucket == "" && var.create_bucket ? 1 : 0}"
-  bucket = "bucketadi2aws"
-  policy = "${file("jsonPolicy.json")}" 
-}

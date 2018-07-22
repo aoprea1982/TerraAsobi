@@ -1,0 +1,73 @@
+privatecloud monkey works cloud security
+
+https://github.com/netflix/security_monkey
+https://github.com/prezi/reddalert
+https://github.com/Netflix/edda
+https://github.com/nccgroup/Scout2
+https://github.com/nccgroup/G-Scout
+https://github.com/SecurityFTW/cs-suite
+https://github.com/cloudsploit/scans
+https://www.reddit.com/r/aws/
+https://github.com/nagwww
+  https://github.com/nagwww/aws-s3-book
+https://www.youtube.com/watch?v=y8nftRzbiXk
+https://github.com/ThreatResponse/aws_ir
+AWS security 
+https://github.com/aws-samples/aws-security-workshops
+https://github.com/aws-samples/aws-security-workshops/tree/master/threat-detection-wksp
+https://github.com/aws-samples/aws-security-workshops/blob/master/threat-detection-wksp/docs/01-environment-setup.md
+
+https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/
+https://rhinosecuritylabs.com/cloud-security/aws-security-vulnerabilities-perspective/
+https://github.com/Yelp/amira   Automated Malware Incident Response & Analysis
+
+the reference
+architecture
+found it https://gist.github.com/markofu/549fbd287edf08c38e869dacc740e49d 
+https://blog.gruntwork.io/
+https://gruntwork.io/reference-architecture/
+https://www.gruntwork.io/infrastructure-as-code-library/
+
+security 
+https://github.com/gruntwork-io/module-security-public
+
+production ehcklist
+https://gruntwork.io/devops-checklist/
+https://github.com/gruntwork-io/module-security-public
+
+
+Macie 
+Inspector
+GuardDuty
+Amazon GuardDuty, Amazon Macie, Amazon Inspector, Amazon CloudWatch, AWS Lambda, AWS Systems Manager, AWS Config, and AWS CloudTrai
+
+
+Amazon S3 
+https://blog.trendmicro.com/amazon-macie-deep-security/
+As a quick recap, Amazon S3 works with two simple objects: buckets and keys. A bucket is essentially a root folder where you data will be stored. A key is a data object.
+
+These basics structures allow you to store your data in any way that makes sense for your application. From a security perspective, the service provides a number of tools to help you configure access to your data:
+	
+
+    Bucket policies
+    IAM policies
+    Access Control Lists (ACLs)
+    Query string authentication/URL-based access
+Intelli J community Edition as IDE
+
+Using the Alexa Top 10,000 sites, determine which sites have S3 buckets that allow directory listing, downloads, and uploads enabled.
+
+count 0 not creating the resource
+all programming needs a default used when no argument is given 
+registry module the module already written 
+terraform module 
+https://registry.terraform.io/
+https://github.com/terraform-aws-modules/terraform-aws-elb/blob/master/variables.tf
+
+
+minikube
+kubernets 
+https://www.katacoda.com/courses/kubernetes
+https://kubernetes.io/docs/tutorials/hello-minikube/
+https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
+
